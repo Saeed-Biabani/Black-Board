@@ -5,7 +5,8 @@
 - Execute `$ pip install numpy`
 
 # Description:
-![Result](/Rme-Picture/RES.jpg)
+![](/Rme-Picture/RES.jpg)
+> Result
 
 # Usage:
 > [Video]()
