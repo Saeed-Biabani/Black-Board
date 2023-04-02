@@ -1,13 +1,13 @@
 # Black Board
+## Overview
+
+![](/Rme-Picture/RES.jpg)
+
 ## Installing dependencies:
 
 - Execute `$ pip install opencv-python`
 - Execute `$ pip install cvzone`
 - Execute `$ pip install numpy`
-
-## Overview
-
-![](/Rme-Picture/RES.jpg)
 
 # Usage:
 
