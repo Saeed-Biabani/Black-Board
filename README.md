@@ -1,14 +1,16 @@
 # Black Board
 ## Installing dependencies:
+
 - Execute `$ pip install opencv-python`
 - Execute `$ pip install cvzone`
 - Execute `$ pip install numpy`
 
-# Description:
+## Overview
+
 ![](/Rme-Picture/RES.jpg)
-> Result
 
 # Usage:
+
 > [Video]()
 
 ![](/Rme-Picture/Draw.png)
@@ -24,5 +26,6 @@
 > Change Color (Just Click)
 
 ## Run Python file:
+
 - Execute `$ python3 main.py`
-> For Exit 'q'
+> Press 'q' for exit
